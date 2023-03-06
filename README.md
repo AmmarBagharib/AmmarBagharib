@@ -1,3 +1,4 @@
+<body style="background-color:WhiteSmoke;">
 <h1 align="left">Welcome to Ammar's Github!</h2>
 
 <p align="left">
