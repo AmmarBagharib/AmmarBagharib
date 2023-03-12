@@ -20,7 +20,9 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### My Tech Skills
+### My Tech Skills  
+<details>  
+<summary>Click to View!</summary>
 
 #### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -55,6 +57,8 @@
 <!--- (https://github.com/prathimacode-hub) -->
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+</details>
 
 ### Profile Views
 ![VisitorCount](https://profile-counter.glitch.me/{AmmarBagharib}/count.svg)
