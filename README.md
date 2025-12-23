@@ -2,16 +2,12 @@
 <h1 align="left">Welcome to Ammar's Github!</h2>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Ammar;+NUS+Business+Undergraduate;+Learning+Business+Analytics+💡;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Ammar;+AI+Engineer+;+NUS+Business+Graduate;💡;">
 </p> 
 
-- 🔭 I’m currently a Business Undergraduate at the National University of Singapore
+- 🔭 I’m currently a AI Software Engineer at Merck Sharp & Dohme (MSD)
 
-- 👯 I began my business analytics journey back in 2021, learning anything from data visualisation, machine learning and reproducible data workflows!
-
-- 🤝 I’m open for internship/ project opportunities for anything data related!
-
-- 📫 You can reach me at: **ammarbagharib@u.nus.edu**
+- 📫 You can reach me at: **ammarbagharib@gmail.com**
 
 <h4 align="left">Connect with me by hitting the button below!</h4>
 <p align="left">
