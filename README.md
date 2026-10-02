@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Ammar;+AI+Engineer+;+NUS+Business+Graduate;💡;">
 </p> 
 
-- 🔭 I’m currently a AI Enthusiast
+- 🔭 I’m an AI Enthusiast
 
 - 📫 You can reach me at: **ammarbagharib@gmail.com**
 
